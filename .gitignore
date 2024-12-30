@@ -1,0 +1,8 @@
+venv
+.env
+
+app/__pycache__
+alembic/__pycache__
+alembic/versions/__pycache__
+app/db/models/__pycache__
+app/db/__pycache__
